@@ -1,0 +1,21 @@
+{
+    "general": {
+        "dataset_name": "dataset_name",
+        "bucket-persistance": "bucketname"
+    },
+    "variables": {
+        "targets": [],
+        "info_columns": [],
+        "features": []
+    },
+    "import": {
+        "import_mode": "bq",
+        "import_config": {}
+    },
+    "filter": {
+        "filter_config": {}
+    },
+    "split": {
+        "split_config": {}
+    }
+}
